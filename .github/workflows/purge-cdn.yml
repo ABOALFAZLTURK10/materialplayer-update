@@ -1,0 +1,16 @@
+name: Purge jsDelivr cache for update.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "update.json"
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/update.json"
+          echo "Purge request sent."
