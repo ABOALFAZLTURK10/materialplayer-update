@@ -1,5 +1,6 @@
 {
   "latest_version": "1.0.0",
+  "force_update": false,
   "changelog": "اولین نسخه منتشر شده",
   "telegram_url": "https://t.me/MaterialPlayer",
   "download_links": {
