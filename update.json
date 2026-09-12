@@ -1,7 +1,7 @@
 {
   "latest_version": "1.2.0",
   "force_update": false,
-  "changelog": "متن تستی برای آپدیت اپلیکیشن",
+  "changelog": "متن تستی برای آپدیت اپلیکیشن متریال پلیر",
   "telegram_url": "https://t.me/MaterialPlayer",
   "download_links": {
     "arm64-v8a": "https://t.me/MaterialPlayer/35",
