@@ -1,7 +1,7 @@
 {
   "latest_version": "1.1.0",
   "force_update": false,
-  "changelog": "متن تستی برای آپدیت اپلیکیشن متریال پلیر",
+  "changelog": "متن تستی برای آپدیت متریال پلیر",
   "telegram_url": "https://t.me/MaterialPlayer",
   "download_links": {
     "armeabi-v7a": "https://t.me/MaterialPlayer/34",
