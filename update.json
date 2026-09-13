@@ -4,9 +4,9 @@
   "changelog": "متن تستی برای آپدیت متریال پلیر",
   "telegram_url": "https://t.me/MaterialPlayer",
   "download_links": {
-    "armeabi-v7a": "https://t.me/MaterialPlayer/34",
-    "arm64-v8a": "https://t.me/MaterialPlayer/35",
-    "x86_64": "https://t.me/MaterialPlayer/36",
+    "armeabi-v7a": "",
+    "arm64-v8a": "",
+    "x86_64": "",
     "universal": "https://t.me/MaterialPlayer/37"
   }
 }
