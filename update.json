@@ -3,10 +3,17 @@
   "force_update": false,
   "changelog": "متن تستی برای آپدیت متریال پلیر",
   "telegram_url": "https://t.me/MaterialPlayer",
+  "github_url": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest",
   "download_links": {
     "armeabi-v7a": "https://t.me/MaterialPlayer/34",
     "arm64-v8a": "https://t.me/MaterialPlayer/35",
     "x86_64": "https://t.me/MaterialPlayer/36",
     "universal": "https://t.me/MaterialPlayer/37"
+  },
+  "github_download_links": {
+    "armeabi-v7a": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest/download/app-armeabi-v7a-release.apk",
+    "arm64-v8a": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest/download/app-arm64-v8a-release.apk",
+    "x86_64": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest/download/app-x86_64-release.apk",
+    "universal": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest/download/app-release.apk"
   }
 }
