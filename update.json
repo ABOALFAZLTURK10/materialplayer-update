@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "force_update": false,
-  "changelog": "متن تستی برای آپدیت متریال پلیر",
+  "changelog": "درحال تست دیالوگ آپدیت",
   "telegram_url": "https://t.me/MaterialPlayer",
   "github_url": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest",
   "download_links": {
