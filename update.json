@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "force_update": false,
   "changelog": "درحال تست دیالوگ آپدیت",
   "telegram_url": "https://t.me/MaterialPlayer",
@@ -11,9 +11,9 @@
     "universal": "https://t.me/MaterialPlayer/37"
   },
   "github_download_links": {
-    "armeabi-v7a": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest/download/app-armeabi-v7a-release.apk",
-    "arm64-v8a": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest/download/app-arm64-v8a-release.apk",
-    "x86_64": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest/download/app-x86_64-release.apk",
-    "universal": "https://github.com/ABOALFAZLTURK10/materialplayer-update/releases/latest/download/app-release.apk"
+    "armeabi-v7a": "",
+    "arm64-v8a": "",
+    "x86_64": "",
+    "universal": ""
   }
 }
